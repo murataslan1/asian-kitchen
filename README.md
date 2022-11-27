@@ -1,4 +1,3 @@
-![My project](https://user-images.githubusercontent.com/89473605/178246337-7eb5aec5-fdc4-458e-8de7-d6f6095965ef.png)
 
 
 <hr>
