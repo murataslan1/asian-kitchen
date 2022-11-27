@@ -2,7 +2,7 @@
 
 
 <hr>
-<h4 align="center">Asian Kitchen app help you for save make awesome foods. You will newer forget your favorite recipes! <a href="https://github.com/murataslan1/asian-kitchen" target="_blank">asian-kitchen</a>.</h4>
+
 
 <p align="center">
   <img src="https://img.shields.io/github/commit-activity/y/murataslan1/asian-kitchen">
